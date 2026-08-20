@@ -1,0 +1,28 @@
+.centered {
+    text-align: center;
+    font-weight: bold;
+}
+
+.en, .ru {
+    color: purple
+}
+
+p.en {
+    background-color: peachpuff;
+}
+
+p.ru {
+    background-color: aquamarine;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-style: italic;
+}
